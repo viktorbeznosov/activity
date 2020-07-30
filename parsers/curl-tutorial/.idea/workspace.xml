@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2990e851-a4a8-40ef-bec1-bc6430af6c01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/electrolinux/phpquery" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YaQFR4o2kAgjGtpWy8KH9VZbHW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parser" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2990e851-a4a8-40ef-bec1-bc6430af6c01" name="Default Changelist" comment="" />
+      <created>1583178986564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583178986564</updated>
+      <workItem from="1583178987841" duration="5432000" />
+      <workItem from="1583259775555" duration="4674000" />
+      <workItem from="1583352433766" duration="4584000" />
+      <workItem from="1583433406982" duration="3029000" />
+      <workItem from="1583756025167" duration="1207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="266" key="FileChooserDialogImpl" timestamp="1583764543726">
+      <screen x="0" y="24" width="1920" height="993" />
+    </state>
+    <state x="748" y="266" key="FileChooserDialogImpl/0.24.1920.993/1920.0.1366.768@0.24.1920.993" timestamp="1583764543726" />
+    <state x="760" y="433" key="NewPhpFileDialog" timestamp="1583352905511">
+      <screen x="0" y="24" width="1920" height="993" />
+    </state>
+    <state x="760" y="433" key="NewPhpFileDialog/0.24.1920.993/1920.0.1366.768@0.24.1920.993" timestamp="1583352905511" />
+    <state x="621" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1583756025145">
+      <screen x="0" y="24" width="1920" height="993" />
+    </state>
+    <state x="621" y="335" key="com.intellij.ide.util.TipDialog/0.24.1920.993/1920.0.1366.768@0.24.1920.993" timestamp="1583756025145" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpoffice/phpword": "^0.15.0",
+        "electrolinux/phpquery": "0.9.*",
+        "stil/xpath-selector": "2.*",
+        "spatie/array-to-xml": "2.7.*",
+        "monolog/monolog": "^1.24",
+        "guzzlehttp/guzzle": "^6.3",
+        "league/csv": "^9.1",
+        "viktorbeznosov/dates": "^1.0",
+        "filp/whoops": "^2.3",
+        "simple-html-dom/simple-html-dom": "^1.5",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}

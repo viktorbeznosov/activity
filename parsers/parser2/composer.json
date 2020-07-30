@@ -1,0 +1,12 @@
+{
+    "name": "root/parser2",
+    "authors": [
+        {
+            "name": "viktorbeznosov",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "electrolinux/phpquery": "^0.9.6"
+    }
+}
